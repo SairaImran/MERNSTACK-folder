@@ -1,1 +1,1 @@
-console.log("The quick brown fox jumps over the lazy dog");
+console.log("The Big Sentence In English <br>The quick brown fox jumps over the lazy dog");
